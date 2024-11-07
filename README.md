@@ -12,9 +12,9 @@ Description: A note taking app.
 
 ### 📖 Table of Contents
 - [About the Project](#-about-the-project)
-- [Technologies Used](#technologies--used)
-- [Features](#features)
-- [Lessons Learned](#lessons--learned)
+- [Technologies Used](#-technologies-used)
+- [Features](#-features)
+- [Lessons Learned](#-lessons-learned)
 
 ---
 
@@ -53,7 +53,7 @@ Anthony:
  - [**GitHub**](https://github.com/Antwanson)
  - [**LinkedIn**](https://www.linkedin.com/in/anthonyzinsmeyer/)
 
-Emanuel:
+Emmanuel:
  - [**GitHub**](https://github.com/wreckitmanny)
  - [**LinkedIn**](https://www.linkedin.com/in/emmanuelcastellanos1)
 
