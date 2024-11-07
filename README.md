@@ -11,7 +11,7 @@ Description: A note taking app.
 ---
 
 ### 📖 Table of Contents
-- [About the Project](#-about-the--project)
+- [About the Project](#-about-the-project)
 - [Technologies Used](#technologies--used)
 - [Features](#features)
 - [Lessons Learned](#lessons--learned)
